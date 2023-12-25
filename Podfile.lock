@@ -1,0 +1,28 @@
+PODS:
+  - Colorful (3.0.0)
+  - IQKeyboardManagerSwift (6.5.10)
+  - SVProgressHUD (2.2.5)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Colorful (~> 3.0)
+  - IQKeyboardManagerSwift
+  - SVProgressHUD
+  - Toast-Swift (~> 5.0.1)
+
+SPEC REPOS:
+  trunk:
+    - Colorful
+    - IQKeyboardManagerSwift
+    - SVProgressHUD
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Colorful: 9e093edacaa9fb73512ad9da157f0707b82d2542
+  IQKeyboardManagerSwift: 52962c76ab33532f15ad9f3ff4e5715eda5335bb
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: 7537d527481ba49eebb24e9b233cb6f6b718dc94
+
+COCOAPODS: 1.11.2
